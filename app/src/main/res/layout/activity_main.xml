@@ -9,18 +9,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="312dp"
-        android:layout_height="78dp"
-        android:layout_gravity="center"
-        android:backgroundTint="#34AF39"
-        android:text="Welcome to twirp!"
-        android:textAlignment="center"
-        android:textAllCaps="true"
-        android:textColor="#E31A0C"
-        android:textStyle="bold" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
